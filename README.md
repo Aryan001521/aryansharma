@@ -50,7 +50,7 @@ Streamlit
 
 ## 📫 Connect With Me
 
-LinkedIn: (add your link here)
+LinkedIn: (https://www.linkedin.com/in/aryan-sharma-188937315/)
 
 ---
 
